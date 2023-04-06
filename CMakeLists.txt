@@ -11,4 +11,5 @@ project ("MultiCalib")
 # 包含子项目。
 
 add_subdirectory ("CameraIntrinsicCalibration")
+add_subdirectory ("Camera2LidarDemo")
 add_subdirectory ("JointCalibration")
